@@ -39,7 +39,7 @@ User must have access to a web browser. No installations necessary.
 
 ## Usage
 
-As a user, you will be able to create code-related inquiries and receive answers through our chatbot.
+As a user, you will be able to search for books.
 
 ## License
 
@@ -54,11 +54,8 @@ Special thanks to [Ileriayo Adebiyi](https://github.com/Ileriayo/markdown-badges
 
 ## Questions
 
-Any concerns or questions, please contact us
+Any concerns or questions, please contact me
 <br/>
-[Leann Labra](https://github.com/leann-labra)<br/>
-[Michael Lomax](https://github.com/Lomax12436)<br>
-[Ethan de la Rosa](https://github.com/dlrethan)<br>
-[Kaylee Nguyen](https://github.com/kn7767)<br>
+
 [Cherie Walker](https://github.com/Cherie2)<br>
 
