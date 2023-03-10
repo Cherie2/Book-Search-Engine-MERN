@@ -28,7 +28,6 @@ const SearchBooks = () => {
   const [saveBook] = useMutation(SAVE_BOOK);
 
   // set up useEffect hook to save `savedBookIds` list to localStorage on component unmount
-  // learn more here: https://reactjs.org/docs/hooks-effect.html#effects-with-cleanup
   useEffect(() => {
     return () => saveBookIds(savedBookIds);
   });
@@ -80,7 +79,7 @@ const SearchBooks = () => {
 
     try {
       await saveBook({
-        variables: { book: bookToSave },
+        variables: { input: bookToSave },
         update: (cache) => {
           const { me } = cache.readQuery({ query: GET_ME });
           cache.writeQuery({

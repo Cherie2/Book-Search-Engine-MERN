@@ -44,6 +44,6 @@ class AuthService {
     // this will reload the page and reset the state of the application
     window.location.assign('/');
   }
-}
-
+};
+/* eslint import/no-anonymous-default-export: [2, {"allowNew": true}] */
 export default new AuthService();
