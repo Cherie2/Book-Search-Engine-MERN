@@ -10,7 +10,7 @@ In completing this project, I have learned the basic concepts of utilizing MERN.
 
 ### Deployed Link
 
-- https://gagglept.herokuapp.com/
+- https://booksearchmern.herokuapp.com/
 
 ## Tools Utilized
 
